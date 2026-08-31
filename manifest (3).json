@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "FootyLife",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "FLS",
+  "start_url": "/https://deezyes418-bot.github.io/FootyLife/",
+  "theme_color": "#ffffff",
+  "id": "FootyLife"
+}
