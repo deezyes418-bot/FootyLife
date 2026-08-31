@@ -1,6 +1,6 @@
 {
-  "name": "Football Life: Career Mode",
-  "short_name": "Football Life",
+  "name": "FootyLife",
+  "short_name": "FLS",
   "description": "Live out a football career from age 16 to retirement — train, transfer, chase trophies and caps.",
   "start_url": "./index.html",
   "scope": "./",
