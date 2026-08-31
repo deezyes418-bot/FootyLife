@@ -1,0 +1,31 @@
+{
+  "name": "Football Life Career Premium",
+  "short_name": "Football Life",
+  "description": "Build your football career from youth academy to legend. Train, play matches, manage your reputation, and rise through the ranks in this immersive career simulation.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0b0f",
+  "theme_color": "#c41e1e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
